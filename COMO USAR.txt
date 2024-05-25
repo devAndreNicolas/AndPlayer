@@ -1,0 +1,4 @@
+Para usar este programa e escutar suas músicas locais, basta cumprir os requisitos de arquivo, selecionar a pasta em que as músicas estão alocadas, selecionar uma faixa na listbox e dar play!
+
+Observações: Só aceita arquivos .MP3; A barra de volume já começa em 100%
+
