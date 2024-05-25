@@ -1,4 +1,3 @@
-Para usar este programa e escutar suas músicas locais, basta cumprir os requisitos de arquivo, selecionar a pasta em que as músicas estão alocadas, selecionar uma faixa na listbox e dar play!
+Para usar este programa e escutar suas músicas locais, basta abrir a pasta "dist" e o executável "AndPlayer.exe", cumprir os requisitos de arquivo (.mp3), selecionar a pasta em que as músicas estão alocadas, selecionar uma faixa na listbox e dar Play!
 
 Observações: Só aceita arquivos .MP3; A barra de volume já começa em 100%
-
